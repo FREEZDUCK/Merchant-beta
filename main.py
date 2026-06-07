@@ -14,7 +14,7 @@ fps = 0.012
 #---------------------------------------
 
 # 본인의 API KEY 작성
-API_KEY = "AIzaSyBZpFAmAevbIbzSA21HBomWLo16j60fJsE"
+API_KEY = ""
 
 #---------------------------------------
 
